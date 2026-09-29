@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ochisafarilodge.github.io/sitemap.xml
+Sitemap: https://ochisafari.com/sitemap.xml
